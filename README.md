@@ -1,6 +1,7 @@
 # V-Arena
 Live link:
-https://varena.hng.tech/
-https://varena.app/
+1) https://varena.hng.tech/
 
-https://varena.netlify.app/
+2) https://varena.app/
+
+3) https://varena.netlify.app/
